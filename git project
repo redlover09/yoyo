@@ -1,0 +1,9 @@
+git ls
+git cd " cd\rini"
+git ls
+git init
+git remote add origin
+git remote -v
+git add .
+git commit -m "first commit"
+git push origin master
